@@ -32,7 +32,7 @@ const Todo = () => {
 
 
     return (
-        <div>
+        <div className='todo__container'>
             <div className='todo'>
                 <div className='todo__buttons'>
                     {namesButton.map(name => <Button key={name} action={setActions} label={name} type={'action'} />)}

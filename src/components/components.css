@@ -146,3 +146,10 @@ input:checked + label{
 .todo__button__delete span {
     padding-left: 5.5px;
 }
+
+.todo__container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
