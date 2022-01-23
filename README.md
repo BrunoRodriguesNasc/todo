@@ -12,3 +12,5 @@ Para baixar as dependencias.
 Para rodar o projeto. ele iniciara na porta 3000 como todo projeto feito pelo create-react-app
 
 ### Veja um preview nesse link.
+
+https://todo-bruno.netlify.app/
