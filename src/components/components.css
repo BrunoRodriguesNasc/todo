@@ -125,6 +125,7 @@ input:checked + label{
     display: flex;
     justify-content: flex-end;
     margin-top: 37px;
+    width: 608px;
 }
 
 .todo__button__delete {
