@@ -123,7 +123,7 @@ input:checked + label{
 
 .todo__delete {
     display: flex;
-    justify-content: end;
+    justify-content: flex-end;
     margin-top: 37px;
 }
 
